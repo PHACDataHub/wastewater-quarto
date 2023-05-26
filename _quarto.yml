@@ -1,0 +1,41 @@
+project:
+  type: website
+
+website:
+  title: "Wastewater Surveillance Platform"
+  navbar:
+    left:
+      - href: trend-report.qmd
+        text: Trend Reports (R Markdown)
+        aria-label: Trend Reports
+      - href: geomatics.qmd
+        text: Geomatic (ArcGIS embed via iFrame)
+      - href: old-faithful.qmd
+        text: Old Faithful (Shiny embed via iFrame)
+      - href: shinylive.qmd
+        text: Shinylive (run Shiny for Python in browser)
+
+  sidebar:
+    - id: trendnav
+      title: "Trend Reports"
+      style: "docked"
+      background: light
+      contents: reports/*
+      
+    - id: geonav
+      title: "Geomatics"
+      style: "docked"
+      background: light
+      contents: 
+        - gemoatics.qmd
+        - other map app
+      
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    page-layout: full
+
+
+

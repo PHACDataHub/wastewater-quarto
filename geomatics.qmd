@@ -1,0 +1,7 @@
+---
+sidebar: geonav
+---
+
+```{=html}
+<iframe width="100%" height="100%" src="https://jsapi.maps.arcgis.com/apps/MapSeries/index.html?appid=bf84c6d306a2447883a2dc8ae266ee5e" frameborder="0" scrolling="no"></iframe>
+```

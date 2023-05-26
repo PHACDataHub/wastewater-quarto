@@ -1,0 +1,6 @@
+---
+title: "Trend Reports"
+sidebar: trendnav
+---
+
+Testing out side navigation
