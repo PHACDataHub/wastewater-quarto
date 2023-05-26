@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "wastewater-quarto",
+    "section": "",
+    "text": "Testing Quarto as a portal to wastewater surveillance tools and resources."
+  },
+  {
+    "objectID": "reports/covid-report.html",
+    "href": "reports/covid-report.html",
+    "title": "Covid Report",
+    "section": "",
+    "text": "TODO"
+  },
+  {
+    "objectID": "reports/example-report.html",
+    "href": "reports/example-report.html",
+    "title": "example",
+    "section": "",
+    "text": "TODO"
+  },
+  {
+    "objectID": "reports/flu-report.html",
+    "href": "reports/flu-report.html",
+    "title": "Flu Report",
+    "section": "",
+    "text": "TODO"
+  },
+  {
+    "objectID": "shinylive.html",
+    "href": "shinylive.html",
+    "title": "Shinylive in Quarto example",
+    "section": "",
+    "text": "This is a Shinylive application embedded in a Quarto doc.\nShinylive allows us to serve Shiny for python apps right in the browser without setting up a server via Pyodide.\n#| standalone: true\n#| components: [editor, viewer]\n\nfrom shiny import *\n\napp_ui = ui.page_fluid(\n    ui.input_slider(\"n\", \"N\", 0, 100, 40),\n    ui.output_text_verbatim(\"txt\"),\n)\n\ndef server(input, output, session):\n    @output\n    @render.text\n    def txt():\n        return f\"The value of n*2 is {input.n() * 2}\"\n\napp = App(app_ui, server)"
+  },
+  {
+    "objectID": "trend-report.html",
+    "href": "trend-report.html",
+    "title": "Trend Reports",
+    "section": "",
+    "text": "Testing out side navigation"
+  }
+]
