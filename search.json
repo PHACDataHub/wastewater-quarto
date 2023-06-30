@@ -9,21 +9,35 @@
   {
     "objectID": "reports/covid-report.html",
     "href": "reports/covid-report.html",
-    "title": "Covid Report",
+    "title": "SARS-COV-2",
     "section": "",
     "text": "TODO"
   },
   {
-    "objectID": "reports/example-report.html",
-    "href": "reports/example-report.html",
-    "title": "example",
+    "objectID": "reports/flua.html",
+    "href": "reports/flua.html",
+    "title": "Influenza A",
     "section": "",
     "text": "TODO"
   },
   {
-    "objectID": "reports/flu-report.html",
-    "href": "reports/flu-report.html",
-    "title": "Flu Report",
+    "objectID": "reports/flub.html",
+    "href": "reports/flub.html",
+    "title": "Influenza B",
+    "section": "",
+    "text": "TODO"
+  },
+  {
+    "objectID": "reports/rsvA.html",
+    "href": "reports/rsvA.html",
+    "title": "RSV A",
+    "section": "",
+    "text": "TODO"
+  },
+  {
+    "objectID": "reports/rsvB.html",
+    "href": "reports/rsvB.html",
+    "title": "RSV B",
     "section": "",
     "text": "TODO"
   },

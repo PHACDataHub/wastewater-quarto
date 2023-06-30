@@ -2,34 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://PHACDataHub.github.io/wastewater-quarto/geomatics.html</loc>
-    <lastmod>2023-05-26T21:33:39.526Z</lastmod>
+    <lastmod>2023-06-30T19:55:27.173Z</lastmod>
   </url>
   <url>
     <loc>https://PHACDataHub.github.io/wastewater-quarto/index.html</loc>
-    <lastmod>2023-05-26T21:33:42.179Z</lastmod>
+    <lastmod>2023-06-30T19:55:29.855Z</lastmod>
   </url>
   <url>
     <loc>https://PHACDataHub.github.io/wastewater-quarto/old-faithful.html</loc>
-    <lastmod>2023-05-26T21:33:44.910Z</lastmod>
+    <lastmod>2023-06-30T19:55:32.593Z</lastmod>
   </url>
   <url>
     <loc>https://PHACDataHub.github.io/wastewater-quarto/reports/covid-report.html</loc>
-    <lastmod>2023-05-26T21:33:47.636Z</lastmod>
+    <lastmod>2023-06-30T19:55:35.333Z</lastmod>
   </url>
   <url>
-    <loc>https://PHACDataHub.github.io/wastewater-quarto/reports/example-report.html</loc>
-    <lastmod>2023-05-26T21:33:50.292Z</lastmod>
+    <loc>https://PHACDataHub.github.io/wastewater-quarto/reports/flua.html</loc>
+    <lastmod>2023-06-30T19:55:38.122Z</lastmod>
   </url>
   <url>
-    <loc>https://PHACDataHub.github.io/wastewater-quarto/reports/flu-report.html</loc>
-    <lastmod>2023-05-26T21:33:52.892Z</lastmod>
+    <loc>https://PHACDataHub.github.io/wastewater-quarto/reports/flub.html</loc>
+    <lastmod>2023-06-30T19:55:40.855Z</lastmod>
+  </url>
+  <url>
+    <loc>https://PHACDataHub.github.io/wastewater-quarto/reports/rsvA.html</loc>
+    <lastmod>2023-06-30T19:55:43.630Z</lastmod>
+  </url>
+  <url>
+    <loc>https://PHACDataHub.github.io/wastewater-quarto/reports/rsvB.html</loc>
+    <lastmod>2023-06-30T19:55:46.331Z</lastmod>
   </url>
   <url>
     <loc>https://PHACDataHub.github.io/wastewater-quarto/shinylive.html</loc>
-    <lastmod>2023-05-26T21:33:57.943Z</lastmod>
+    <lastmod>2023-06-30T19:55:52.219Z</lastmod>
   </url>
   <url>
     <loc>https://PHACDataHub.github.io/wastewater-quarto/trend-report.html</loc>
-    <lastmod>2023-05-26T21:34:00.577Z</lastmod>
+    <lastmod>2023-06-30T19:55:55.068Z</lastmod>
   </url>
 </urlset>
