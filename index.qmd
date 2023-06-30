@@ -3,4 +3,5 @@ title: "wastewater-quarto"
 sidebar: false
 ---
 
+![](images/wastewater_testing.jpg){width=50%}
 Testing Quarto as a portal to wastewater surveillance tools and resources.

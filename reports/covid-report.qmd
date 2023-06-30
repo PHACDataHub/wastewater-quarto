@@ -1,5 +1,5 @@
 ---
-title: "Covid Report"
+title: "SARS-COV-2"
 ---
 
 TODO

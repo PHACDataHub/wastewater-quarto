@@ -6,15 +6,15 @@ website:
   navbar:
     left:
       - href: trend-report.qmd
-        text: Trend Reports (R Markdown)
-        aria-label: Trend Reports
+        text: Region Reports
+        aria-label: Region Reports
       - href: geomatics.qmd
-        text: Geomatic (ArcGIS embed via iFrame)
+        text: Geomatic
       - href: old-faithful.qmd
-        text: Old Faithful (Shiny embed via iFrame)
+        text: Old Faithful
       - href: shinylive.qmd
-        text: Shinylive (run Shiny for Python in browser)
-
+        text: Shinylive
+        
   sidebar:
     - id: trendnav
       title: "Trend Reports"
